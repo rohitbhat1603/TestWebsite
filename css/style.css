@@ -2588,7 +2588,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
   margin: 10px 20px;
   min-width: 280px;
-  max-width: 320px;
+  max-width: 650px;
   min-height: 250px;
   width: 100%;
   color: #ffffff;
