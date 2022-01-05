@@ -456,11 +456,11 @@ nav.main-menu {
 
 .menu-area-main li:hover a,
 .menu-area-main li:focus a {
-	color: #ffc221;
+	color: #4252F0;
 }
 
 .menu-area-main li.active a {
-	color: #ffc221;
+	color: #4252F0;
 }
 
 .right_cart_section {
@@ -1636,19 +1636,20 @@ input[type="radio"] .styled:checked+label::after {
 
 
 .buy {
-background: #ffc221;
+background: #4252F0;
 padding: 7px 41px !important;
 margin-top: 18px;
 border-radius: 5px;
 display: inline-block;
 float: right;
+color: white;
 }
 
 .buy:hover {
-	color: #fff;
+	color: black;
 }
 
-.head_top {background: #ffc221;
+.head_top {background: #4252F0;
 margin-bottom: 35px;
 }
 ul.sociel_link {
@@ -2118,13 +2119,13 @@ ul.lik li a:hover {
 }
 
 .copyright {
-	background-color: #ffc221;
+	background-color: #4252F0;
 	padding: 20px 0px;
 	margin-top: 70px;
 }
 
 .copyright p {
-	color: #023023;
+	color: white;
 	font-size: 18px;
 	line-height: 22px;
 	text-align: center;
